@@ -6,14 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/neilarodrigues-silva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neilarodrigues-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilarodrigues-silva&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=neilarodrigues-silva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilarodrigues-silva&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
- <img align="right" alt="Neila-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/NAAL/Downloads/20221125142655984%20(2).webp">
+
 ##
 
 <div>
