@@ -1,17 +1,29 @@
-- 👋 Hello, my name is Neila 😊
+
+<!-- Updating my readme for GitHub-->
+
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Neila Rodrigues</h1>
+
+<!-- Technology student - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
 - 👀 I am interested in Software Development
 - 💻 I am currently studying JAVA
 - 👩‍💻 I am a Starter at GFT Tecnologia, the first Starter group for women.
 - 📫 How to reach me...
+
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  
+##
 
 <div align="center">
   <a href="https://github.com/neilarodrigues-silva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=neilarodrigues-silva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilarodrigues-silva&layout=compact&langs_count=7&theme=merko"/>
 </div>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 
 ##
 
